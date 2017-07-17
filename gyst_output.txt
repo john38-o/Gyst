@@ -1,0 +1,29 @@
+1.) [FTC v. AT T] is such a big deal : Under the August ruling , virtually any company in any industry seeking lighter regulation could try to claim common-carrier status to exempt the rest of its business from both FTC and FCC oversight .
+–– [August 's ruling] effectively shrank the FTC 's jurisdiction by placing a whole class of companies off limits .
+–– [Undoing 9th Circuit 's ruling] would mean giving the FTC the ability once again to go after the parts of an ISP 's business that are n't common carrier-related .
+
+2.) [court] said the FTC should be banned from regulating a company if even a small part of that firm's business is regulated by the Federal Communications Commission as a telecom service , otherwise known as a `` common carrier . ''
+–– [U.S. Court of Appeals for 9th Circuit] dealt the Federal Trade Commission a major blow by calling into question one of the consumer protection agency's most important powers .
+–– [court 's decision this week] could easily be reopened if the court comes to the same conclusion , analysts say .
+
+3.) [decision] raised the question whether any company with a common-carrier business could escape FTC enforcement for all other aspects of its business , '' said Robin Campbell , a lawyer at Squire Patton Boggs .
+
+4.) [policymakers] have been struggling with the implications of this case , FTC v. AT & T , in part because it overturned about a century 's worth of established legal practice and also , analysts say , because it appeared to open a wide loophole that businesses might use to evade most federal oversight .
+
+
+Important Quotes:
+
+`` [ major departure from previous norm ] was huge because it was totally unexpected ''[Harold Feld]
+
+`` Nobody 's ever ruled that way before ''[Harold Feld]
+
+`` This decision raised the question whether any company with a common-carrier business could escape FTC enforcement for all other aspects of its business ''[Robin Campbell]
+
+`` Facebook could buy some dinky little telephone company and then become totally exempt from the Federal Trade Commission ''[Harold Feld]
+
+`` The court’s action also strengthens the case for the FCC to reverse its 2015 Title II Order and restore the FTC’s jurisdiction over broadband providers’ privacy and data security practices ''[FCC Chairman Ajit Pai]
+
+`` There is a role for antitrust enforcement in this space , but it is not a substitute for prescriptive rules ''[Robert Cooper]
+
+`` [ role for antitrust enforcement in this space , it ] is expensive and time-consuming and thus favors those with the greatest resources . Moreover , it necessarily requires that an alleged violation already has occurred ''[Robert Cooper]
+
